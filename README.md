@@ -5,7 +5,7 @@ AGPL-3.0 licence of one of its sources. It is regenerated every day from the ups
 
 ## Files
 
-- `cards.json`: 4,317 card prints. Gameplay fields (HP, attacks, ability, weakness, retreat,
+- `cards.json`: 4,547 card prints. Gameplay fields (HP, attacks, ability, weakness, retreat,
   stage, artist), rarity, pack membership, pack points, trade cost, and two fields we add:
   - `canonicalId`: the earliest playable print of the card; alternate arts point to it.
   - `printIds`: every print of the same card.
